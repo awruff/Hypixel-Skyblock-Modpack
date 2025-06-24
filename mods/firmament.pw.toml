@@ -1,0 +1,13 @@
+name = "Firmament for Hypixel SkyBlock"
+filename = "Firmament-3.1.0+mc1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IJNUBZ2a/versions/MAOpD0r5/Firmament-3.1.0%2Bmc1.21.5.jar"
+hash-format = "sha512"
+hash = "68e53f559013c46c777da7ec1efdd5a041323ee14c070895aaf7988d63fe25363d3ceb6ec5e64affc4d89bbb964b07414e3f4f1c0266a1b8ef6eb2fb538b65ea"
+
+[update]
+[update.modrinth]
+mod-id = "IJNUBZ2a"
+version = "MAOpD0r5"

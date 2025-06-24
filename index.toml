@@ -1,0 +1,96 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "847dce2251028733f139692907e89466896dc6ca35cfcc1bdaa0ec1f02aebefb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "191d25d191a31ada2de9916f4f6ad9b339c1775b104ea4046e414422a09888bc"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+metafile = true
+
+[[files]]
+file = "mods/firmament.pw.toml"
+hash = "55c6219168abc7a8fa728eed5aa600fb897748b6eb541990f1ed9f70c41fd1bd"
+metafile = true
+
+[[files]]
+file = "mods/hypixel-mod-api.pw.toml"
+hash = "f5d710cbfe563690d2058bdf080c1313afdeb57d55daf972ade40c93ddaacae8"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "29bc0f585963a84e1f78af8a1ab779e34dcc4c1657190297bca9cd95aeb90d36"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/skyblockaddons-unofficial.pw.toml"
+hash = "0437b5584eece8a8d5ed6545b5cd51b75bb3639a268288c5e4becf612c851514"
+metafile = true
+
+[[files]]
+file = "mods/skyblocker-liap.pw.toml"
+hash = "12a93cac10964455969541d5e78fbd8c0edfa4b307c079cb607c5656c203c71e"
+metafile = true
+
+[[files]]
+file = "mods/skycubed.pw.toml"
+hash = "a0ad1a827ea14725e58b1bf32be3f69719785859fdf308bb0f56fbb4fa13149f"
+metafile = true
+
+[[files]]
+file = "mods/skyhanni.pw.toml"
+hash = "55033adb2677b80f61c118f33f4a97a5cfcdfe7d04ddeae4609669167344d454"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "dc66d444a8cfd427c3c05d47babcc43f7fca842c1d7731116bd07c7d88441edc"
+metafile = true
+
+[[files]]
+file = "mods/zume.pw.toml"
+hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hypixel-plus.pw.toml"
+hash = "bbc5a21ac06cbfad45153cc7448a8b24cc9f6e72f6dd9b7329c7a8fe7b101000"
+metafile = true

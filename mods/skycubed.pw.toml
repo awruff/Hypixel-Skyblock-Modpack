@@ -1,0 +1,13 @@
+name = "SkyCubed"
+filename = "skycubed-1.5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/znwUKvZc/versions/JVBBnPyV/skycubed-1.5.0.jar"
+hash-format = "sha512"
+hash = "bab7783acf68405e4794c8547e76a8a81087c81734432cadde7fbc1e179d197d4ea85266b3c25aad838b22ff9a0db3e9768273d5d95f90eb085dd3127fdbe223"
+
+[update]
+[update.modrinth]
+mod-id = "znwUKvZc"
+version = "JVBBnPyV"

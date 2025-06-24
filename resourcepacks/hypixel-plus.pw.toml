@@ -1,0 +1,13 @@
+name = "Hypixel Plus"
+filename = "Hypixel+ 0.22.1.1 for 1.21.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p6lVqTvA/versions/FCGdnQ6m/Hypixel%2B%200.22.1.1%20for%201.21.5.zip"
+hash-format = "sha512"
+hash = "0b6ca7d0d87bdc56d153c70fa0f892ac6a9b8f5faebf11eb4b65446063ab09a823253e8defae0302a7649a9b757c7f62c47ab83b4b28eb162099f79a1a452208"
+
+[update]
+[update.modrinth]
+mod-id = "p6lVqTvA"
+version = "FCGdnQ6m"
