@@ -1,12 +1,12 @@
 name = "Skyblock"
 author = "Belle"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6729642f9bf92f9585f4d59b0026cb8613723a2ebf096610faf3f1aba669a509"
+hash = "2bea7ceab5221e961fd7c410090c7cd6f8b4447b710b92751cd8abcd759667d9"
 
 [versions]
 fabric = "0.16.14"

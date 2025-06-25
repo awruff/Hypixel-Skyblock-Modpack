@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockaddons-unofficial.pw.toml"
-hash = "0437b5584eece8a8d5ed6545b5cd51b75bb3639a268288c5e4becf612c851514"
+hash = "4abeaee68ff58e740b8acf80cf3b1925d835214137c37145012a39df07c61a20"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "55033adb2677b80f61c118f33f4a97a5cfcdfe7d04ddeae4609669167344d454"
+hash = "f2737e734e5f39a1430883c5818bdcf273ba4c67b6eec4d2411d93e7f09145a7"
 metafile = true
 
 [[files]]

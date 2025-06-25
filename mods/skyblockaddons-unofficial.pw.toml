@@ -1,13 +1,13 @@
 name = "SkyblockAddons Unofficial"
-filename = "SkyblockAddons-2.0.0-alpha.4-for-MC-1.21.5.jar"
+filename = "SkyblockAddons-2.0.0-alpha.5+575-for-MC-1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/F35D4vTL/versions/cnSi9SOD/SkyblockAddons-2.0.0-alpha.4-for-MC-1.21.5.jar"
+url = "https://cdn.modrinth.com/data/F35D4vTL/versions/QBNYGjXz/SkyblockAddons-2.0.0-alpha.5%2B575-for-MC-1.21.5.jar"
 hash-format = "sha512"
-hash = "3d4c0b1a8bffe822cbb3b1bde86b4bb973b064759a018e86ffde90e1a58c9c3b6b1652736f5ee612e6c9b9ddfd067d2699f550f95377113d63b6692b79016505"
+hash = "34d6699eba5515df95717b518b6f99259b5becc372ef493e76aeefacdf432b2c12a41a8d42419e1dcc80ea92abd440070222c1749aab6d1e50b4428678345879"
 
 [update]
 [update.modrinth]
 mod-id = "F35D4vTL"
-version = "cnSi9SOD"
+version = "QBNYGjXz"
