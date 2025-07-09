@@ -1,13 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
+file = "README.md"
+hash = "daa211aec58f635814328c6ba069bbd017fd85898e88d932ad4762cebe20a06b"
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "847dce2251028733f139692907e89466896dc6ca35cfcc1bdaa0ec1f02aebefb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "191d25d191a31ada2de9916f4f6ad9b339c1775b104ea4046e414422a09888bc"
+hash = "275a1ecb11bde12b8c4c713b533230c75bc47bcffc590c5299287263d828c9b3"
 metafile = true
 
 [[files]]
@@ -17,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmament.pw.toml"
-hash = "55c6219168abc7a8fa728eed5aa600fb897748b6eb541990f1ed9f70c41fd1bd"
+hash = "002536bb0a71c2438586422a8426ad1a16206683ea601ef6f0f51224654940c2"
 metafile = true
 
 [[files]]
@@ -27,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
+hash = "5d6f1406628a792f100454fb8cbf3ad70a76fe58e0bdb09df3cf5e8d86e878a7"
 metafile = true
 
 [[files]]
@@ -57,22 +65,22 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockaddons-unofficial.pw.toml"
-hash = "4abeaee68ff58e740b8acf80cf3b1925d835214137c37145012a39df07c61a20"
+hash = "6c9c7d1fcfffaee8eeaab8e13828774835d5c27c0d146d9247cd0c4e9aedde6e"
 metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "12a93cac10964455969541d5e78fbd8c0edfa4b307c079cb607c5656c203c71e"
+hash = "d4d67283238880ef78cf641bf55441253887ff3978bcd16fb14e8f47afd382fc"
 metafile = true
 
 [[files]]
 file = "mods/skycubed.pw.toml"
-hash = "a0ad1a827ea14725e58b1bf32be3f69719785859fdf308bb0f56fbb4fa13149f"
+hash = "f6fedb388106bea7ec49ae03f0bdacdc9b2cc28ba98fed673828704c466ab3ee"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "f2737e734e5f39a1430883c5818bdcf273ba4c67b6eec4d2411d93e7f09145a7"
+hash = "13764bf6340e1a3a39b084fd54eaa057b031125379c76ca421b757cee4537ff0"
 metafile = true
 
 [[files]]
